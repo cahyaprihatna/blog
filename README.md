@@ -1,3 +1,3 @@
-# Cahya Prihatna
+# LifeCode
 
-Welcome to my science blog.
+Blog tentang sains, terutama biologi.
